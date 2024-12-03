@@ -93,7 +93,7 @@ This webpage is an online market where users can list their items up for saLe an
 - Open your CLI application of choice and change the current working directory to the location where you want the cloned directory to be made.
 - Type git clone, and then paste the previously copied URL to create the clone
 
-The Live link to this repository can be found here - [https://lewisbull2303.github.io/SpectrumMarket](https://spectrum-market-cc7b3d0a9cef.herokuapp.com/)
+The Live link to this repository can be found here - https://spectrum-market-cc7b3d0a9cef.herokuapp.com/
 
 
 
