@@ -66,7 +66,6 @@ urllib3==1.26.15
 user_agent==0.1.10
 vscode-ext==1.5.4
 weblib==0.1.30
-windows-curses==2.3.1
 yarg==0.1.9
 yarl==1.9.1
 youtube-dl==2021.12.17
