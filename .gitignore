@@ -13,3 +13,4 @@ venv/
 input/train
 input/test
 my_dir/
+env
